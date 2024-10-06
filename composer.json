@@ -1,0 +1,11 @@
+{
+    "require": {
+        "yaphet17/chapa": "*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "http://repo.packagist.org"
+        }
+    }
+}
